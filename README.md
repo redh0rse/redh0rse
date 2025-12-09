@@ -5,14 +5,14 @@ I’m a Computer Science student passionate about web development, cloud & DevOp
 
 ---
 
-## 🔧 What I'm Currently Working On
+## 🔧 I'm Currently Working On
 - Practicing **Data Structures & Algorithms (DSA) in C++**  
 - Developing an **Online Voting System** (Next.js + MongoDB + Face Recognition)  
 - Learning **Docker, Distributed Systems**
 
 ---
 
-## 🛠️ Tools & Technologies I Use
+## 🛠️ Tools & Technologies
 - **Languages:** C++, JavaScript, Python  
 - **Frontend:** HTML, CSS, React, Next.js  
 - **Backend:** Node.js  
