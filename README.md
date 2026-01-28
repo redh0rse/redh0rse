@@ -1,3 +1,5 @@
+![](profile.gif)
+
 #  Hi, I'm Koushik!
 
 ## 👨‍💻 About
